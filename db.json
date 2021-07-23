@@ -10,14 +10,14 @@
         {
             "id": 1,
             "name": "Storage",
-            "provider": "Azure",
+            "provider": "GCP",
             "aws_match": "S3",
             "pricing": 4000
         },
         {
             "id": 2,
             "name": "Compute",
-            "provider": "Azure",
+            "provider": "Another Compute Service",
             "aws_match": "EC2",
             "pricing": 8000
         }
