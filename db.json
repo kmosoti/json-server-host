@@ -1,26 +1,23 @@
-{
-"bluewhale_resources":
-	[
-		{
-			"id": "Basic_A0",
-			"resource_type": "Compute",
-			"provider": "Azure",
-			"aws_match": "Lambda",
-			"pricing": 2000
-		},
-		{
-			"id": "Azure_Storage3",
-			"resource_type": "Storage",
-			"provider": "Azure",
-			"aws_match": "S3",
-			"pricing": 4000
-		},
-		{
-			"id": "Azure_Compute2",
-			"resource_type": "Compute",
-			"provider": "Azure",
-			"aws_match": "EC2",
-			"pricing": 8000
-		}
-	]
-}
+[
+    {
+        "id": "Basic_A0",
+        "resource_type": "Compute",
+        "provider": "Azure",
+        "aws_match": "Lambda",
+        "pricing": 2000
+    },
+    {
+        "id": "Azure_Storage3",
+        "resource_type": "Storage",
+        "provider": "Azure",
+        "aws_match": "S3",
+        "pricing": 4000
+    },
+    {
+        "id": "Azure_Compute2",
+        "resource_type": "Compute",
+        "provider": "Azure",
+        "aws_match": "EC2",
+        "pricing": 8000
+    }
+]
