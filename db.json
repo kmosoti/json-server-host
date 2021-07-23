@@ -1,4 +1,7 @@
-[{
+{
+"bluewhale_resources":
+	[
+		{
 			"id": "Basic_A0",
 			"resource_type": "Compute",
 			"provider": "Azure",
@@ -20,3 +23,4 @@
 			"pricing": 8000
 		}
 	]
+}
