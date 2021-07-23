@@ -2,21 +2,21 @@
     "bluewhale_resources" : [
         {
             "id": 0,
-            "resource_type": "Compute",
+            "name": "Compute",
             "provider": "Azure",
             "aws_match": "Lambda",
             "pricing": 2000
         },
         {
             "id": 1,
-            "resource_type": "Storage",
+            "name": "Storage",
             "provider": "Azure",
             "aws_match": "S3",
             "pricing": 4000
         },
         {
             "id": 2,
-            "resource_type": "Compute",
+            "name": "Compute",
             "provider": "Azure",
             "aws_match": "EC2",
             "pricing": 8000
