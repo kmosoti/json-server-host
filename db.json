@@ -19,24 +19,24 @@
 	],
 	"compute_types": [{
 			"id": 1,
-			"name": "Accelerated Computing"
+			"name": "accelerated computing"
 		},
 		{
 			"id": 2,
-			"name": "Optimized Computing"
+			"name": "compute optimized"
 		},
 		{
 			"id": 3,
-			"name": "General Puprose"
+			"name": "general puprose"
 		}
 	],
 	"storage_types": [{
 			"id": 1,
-			"name": "Memory Optimized"
+			"name": "memory optimized"
 		},
 		{
 			"id": 2,
-			"name": "Storage Optimized"
+			"name": "storage optimized"
 		}
 	]
 }
