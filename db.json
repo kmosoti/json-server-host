@@ -1,25 +1,37 @@
 {
-    "bluewhale_resources" : [
-        {
-            "id": 0,
-            "name": "Compute",
-            "provider": "Azure",
-            "aws_match": "Lambda",
-            "pricing": 2000
-        },
-        {
-            "id": 1,
-            "name": "Storage",
-            "provider": "GCP",
-            "aws_match": "S3",
-            "pricing": 4000
-        },
-        {
-            "id": 2,
-            "name": "Compute",
-            "provider": "Another Compute Service",
-            "aws_match": "EC2",
-            "pricing": 8000
-        }
-    ]
+	"bluewhale_resources": [{
+			"id": 0,
+			"name": "Compute",
+			"provider": "Azure",
+			"aws_match": "Lambda",
+			"pricing": 2000
+		},
+		{
+			"id": 1,
+			"name": "Storage",
+			"provider": "GCP",
+			"aws_match": "S3",
+			"pricing": 4000
+		},
+		{
+			"id": 2,
+			"name": "Compute",
+			"provider": "Another Compute Service",
+			"aws_match": "EC2",
+			"pricing": 8000
+		}
+	],
+	"resource_types": [{
+			"id": 0,
+			"name": "Compute"
+		},
+		{
+			"id": 1,
+			"name": "Storage"
+		},
+		{
+			"id": 2,
+			"name": "Machine Learning"
+		}
+	]
 }
