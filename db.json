@@ -17,28 +17,26 @@
 			"name": "Storage"
 		}
 	],
-	"machine_types_Azure": [{
-		"compute_types": [{
-				"id": 1,
-				"name": "Accelerated Computing"
-			},
-			{
-				"id": 2,
-				"name": "Optimized Computing"
-			},
-			{
-				"id": 3,
-				"name": "General Puprose"
-			}
-		],
-		"storage_types": [{
-				"id": 1,
-				"name": "Memory Optimized"
-			},
-			{
-				"id": 2,
-				"name": "Storage Optimized"
-			}
-		]
-	}]
+	"compute_types": [{
+			"id": 1,
+			"name": "Accelerated Computing"
+		},
+		{
+			"id": 2,
+			"name": "Optimized Computing"
+		},
+		{
+			"id": 3,
+			"name": "General Puprose"
+		}
+	],
+	"storage_types": [{
+			"id": 1,
+			"name": "Memory Optimized"
+		},
+		{
+			"id": 2,
+			"name": "Storage Optimized"
+		}
+	]
 }
