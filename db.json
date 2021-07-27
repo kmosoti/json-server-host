@@ -1,24 +1,15 @@
 {
 	"cloud_providers": [{
 			"id": 0,
-			"name": "Compute",
-			"provider": "Azure",
-			"aws_match": "Lambda",
-			"pricing": 2000
+			"name": "Azure"
 		},
 		{
 			"id": 1,
-			"name": "Storage",
-			"provider": "GCP",
-			"aws_match": "S3",
-			"pricing": 4000
+			"name": "GCP"
 		},
 		{
 			"id": 2,
-			"name": "Compute",
-			"provider": "Another Compute Service",
-			"aws_match": "EC2",
-			"pricing": 8000
+			"name": "Another Compute Service"
 		}
 	],
 	"resource_types": [{
