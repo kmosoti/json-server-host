@@ -7,10 +7,6 @@
 			"id": 1,
 			"name": "GCP"
 		},
-		{
-			"id": 2,
-			"name": "Another Compute Service"
-		}
 	],
 	"resource_types": [{
 			"id": 0,
@@ -20,9 +16,17 @@
 			"id": 1,
 			"name": "Storage"
 		},
-		{
-			"id": 2,
-			"name": "Machine Learning"
+	]
+	"machine_types_Azure": [{
+			"compute_types":[
+				{"id": 1, "name":"Accelerated Computing"},
+				{"id": 2, "name":"Optimized Computing"},
+				{"id": 3, "name":"General Puprose"}
+			],
+			"storage_types":[
+				{"id": 1, "name":"Memory Optimized"},
+				{"id": 2, "name":"Storage Optimized"}
+			]
 		}
 	]
 }
