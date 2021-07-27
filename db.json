@@ -1,5 +1,5 @@
 {
-	"bluewhale_resources": [{
+	"cloud_providers": [{
 			"id": 0,
 			"name": "Compute",
 			"provider": "Azure",
