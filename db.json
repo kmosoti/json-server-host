@@ -18,24 +18,24 @@
 		}
 	],
 	"compute_types": [{
-			"id": 1,
-			"name": "accelerated_computing"
+			"id": "accelerated_computing",
+			"name": "Accelerated Computing"
 		},
 		{
-			"id": 2,
-			"name": "compute_optimized"
+			"id": "compute_optimized",
+			"name": "Compute Optimized"
 		},
 		{
-			"id": 3,
-			"name": "general_puprose"
+			"id": "general_puprose",
+			"name": "General Purpose"
 		},
 		{
-			"id": 4,
-			"name": "memory_optimized"
+			"id": "memory_optimized",
+			"name": "Memory Optimized"
 		},
 		{
-			"id": 5,
-			"name": "storage_optimized"
+			"id": "storage_optimized",
+			"name": "Storage Optimized"
 		}
 	],
 	"storage_types": [{
