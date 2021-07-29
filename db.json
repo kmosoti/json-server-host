@@ -42,5 +42,23 @@
 			"id": "virtualDisks",
 			"name": "N/A"
 		}
+	],
+	"Azure_virtualDisks":[
+		{
+			"id": 1,
+			"name": "Premium_ZRS"
+		},
+		{
+			"id": 2,
+			"name": "StandardSSD_LRS"
+		},
+		{
+			"id": 3,
+			"name": "UltraSSD_LRS"
+		},
+		{
+			"id": 4,
+			"name": "Standard_LRS"
+		}
 	]
 }
