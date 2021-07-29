@@ -9,11 +9,11 @@
 		}
 	],
 	"resource_types": [{
-			"id": 0,
+			"id": "compute_types",
 			"name": "Compute"
 		},
 		{
-			"id": 1,
+			"id": "storage_types",
 			"name": "Storage"
 		}
 	],
