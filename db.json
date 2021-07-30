@@ -18,23 +18,23 @@
 		}
 	],
 	"compute_types": [{
-			"id": "accelerated_computing",
+			"id": "accelerated computing",
 			"name": "Accelerated Computing"
 		},
 		{
-			"id": "compute_optimized",
+			"id": "compute optimized",
 			"name": "Compute Optimized"
 		},
 		{
-			"id": "general_puprose",
+			"id": "general puprose",
 			"name": "General Purpose"
 		},
 		{
-			"id": "memory_optimized",
+			"id": "memory optimized",
 			"name": "Memory Optimized"
 		},
 		{
-			"id": "storage_optimized",
+			"id": "storage optimized",
 			"name": "Storage Optimized"
 		}
 	],
